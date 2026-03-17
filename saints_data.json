@@ -494,7 +494,7 @@
         "Year of Death": "1101",
         "Famous Quote": "While the world changes, the Cross stands firm.",
         "Patron Saint Of": "Exorcists",
-        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+        "Image URL": "https://commons.wikimedia.org/wiki/File:Nicolas_Mignard_001.jpg"
     },
     {
         "Saint Name": "St. Bernard of Clairvaux",
@@ -620,7 +620,7 @@
         "Year of Death": "1917",
         "Famous Quote": "I can do all things in Him who strengthens me.",
         "Patron Saint Of": "Immigrants",
-        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Saint_Stephen%2C_Martyr_Roman_Catholic_Church_%28Chesapeake%2C_Virginia%29_-_stained_glass%2C_St._Frances_Xavier_Cabrini.jpg"
     },
     {
         "Saint Name": "St. Giuseppe Moscati",
@@ -662,14 +662,14 @@
         "Year of Death": "1938",
         "Famous Quote": "The soul that trusts in My mercy is most fortunate.",
         "Patron Saint Of": "Mercy",
-        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/d/de/Maria_Faustyna_Kowalska.jpg"
     },
     {
-        "Saint Name": "St. Jose Lusi Sanchez del Rio",
+        "Saint Name": "St. Jose Luis Sanchez del Rio",
         "Year of Death": "1928",
         "Famous Quote": "Viva Cristo Rey!",
         "Patron Saint Of": "Persecuted Christians",
-        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jos%C3%A9_S%C3%A1nchez_del_R%C3%ADo.jpg"
     },
     {
         "Saint Name": "St. Laura Montoya",
@@ -690,6 +690,6 @@
         "Year of Death": "2006",
         "Famous Quote": "The Eucharist is my highway to heaven.",
         "Patron Saint Of": "Internet, Youth",
-        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Campinas_-_13_de_setembro-96_%28cropped%29.jpg"
     }
 ]
