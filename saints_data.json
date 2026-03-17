@@ -1,0 +1,695 @@
+[
+    {
+        "Saint Name": "St. Peter",
+        "Year of Death": "64",
+        "Famous Quote": "Lord, you know that I love you.",
+        "Patron Saint Of": "The Papacy, Fishermen",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Peter-Sinai_%286th_Century%29_Crop.jpg/500px-Saint_Peter-Sinai_%286th_Century%29_Crop.jpg"
+    },
+    {
+        "Saint Name": "St. Paul",
+        "Year of Death": "67",
+        "Famous Quote": "I have fought the good fight, I have finished the race.",
+        "Patron Saint Of": "Authors, Missionaries",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg/500px-Fresco_of_Saint_Paul_at_Ephesus.jpg"
+    },
+    {
+        "Saint Name": "St. Augustine of Hippo",
+        "Year of Death": "430",
+        "Famous Quote": "Our hearts are restless until they rest in Thee.",
+        "Patron Saint Of": "Theologians, Brewers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Augustine_Lateran.jpg"
+    },
+    {
+        "Saint Name": "St. Patrick",
+        "Year of Death": "461",
+        "Famous Quote": "Christ with me, Christ before me, Christ behind me.",
+        "Patron Saint Of": "Ireland, Engineers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg/500px-Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg"
+    },
+    {
+        "Saint Name": "St. Benedict of Nursia",
+        "Year of Death": "547",
+        "Famous Quote": "Idleness is the enemy of the soul.",
+        "Patron Saint Of": "Europe, Monks",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg/500px-Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
+    },
+    {
+        "Saint Name": "St. Francis of Assisi",
+        "Year of Death": "1226",
+        "Famous Quote": "Preach the Gospel at all times. Use words if necessary.",
+        "Patron Saint Of": "Animals, Ecology",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg/500px-Philip_Fruytiers_-_St._Francis_of_Assisi.jpg"
+    },
+    {
+        "Saint Name": "St. Anthony of Padua",
+        "Year of Death": "1231",
+        "Famous Quote": "The breadth of charity widens the narrow heart of the sinner.",
+        "Patron Saint Of": "Lost Items, The Poor",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/500px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg"
+    },
+    {
+        "Saint Name": "St. Thomas Aquinas",
+        "Year of Death": "1274",
+        "Famous Quote": "Nothing but you, Lord.",
+        "Patron Saint Of": "Students, Universities",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/500px-St-thomas-aquinasFXD.jpg"
+    },
+    {
+        "Saint Name": "St. Catherine of Siena",
+        "Year of Death": "1380",
+        "Famous Quote": "Love transforms you into what you love.",
+        "Patron Saint Of": "Italy, Nurses",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Giovanni_Battista_Tiepolo_096.jpg/500px-Giovanni_Battista_Tiepolo_096.jpg"
+    },
+    {
+        "Saint Name": "St. Joan of Arc",
+        "Year of Death": "1431",
+        "Famous Quote": "If I am not in God's Grace, may God place me there; if I am, may God so keep me",
+        "Patron Saint Of": "France, Soldiers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg"
+    },
+    {
+        "Saint Name": "St. Ignatius of Loyola",
+        "Year of Death": "1556",
+        "Famous Quote": "Love is shown more in deeds than in words.",
+        "Patron Saint Of": "Education, Soldiers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ignatius_Loyola.jpg"
+    },
+    {
+        "Saint Name": "St. Teresa of Avila",
+        "Year of Death": "1582",
+        "Famous Quote": "Let nothing disturb you, let nothing frighten you.",
+        "Patron Saint Of": "Headache Sufferers, Writers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg/500px-Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg"
+    },
+    {
+        "Saint Name": "St. Francis de Sales",
+        "Year of Death": "1622",
+        "Famous Quote": "Be who you are and be that well.",
+        "Patron Saint Of": "Journalists, Authors",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg/500px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg"
+    },
+    {
+        "Saint Name": "St. Vincent de Paul",
+        "Year of Death": "1660",
+        "Famous Quote": "Charity is the Samaritan who pours oil on the wounds of the traveler.",
+        "Patron Saint Of": "Charitable Societies",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Vincent_de_Paul.PNG/500px-Vincent_de_Paul.PNG"
+    },
+    {
+        "Saint Name": "St. Bernadette Soubirous",
+        "Year of Death": "1879",
+        "Famous Quote": "I shall do everything for Heaven.",
+        "Patron Saint Of": "Illness, Shepherds",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bernadette_Soubirous.jpg/500px-Bernadette_Soubirous.jpg"
+    },
+    {
+        "Saint Name": "St. Th\u00e9r\u00e8se of Lisieux",
+        "Year of Death": "1897",
+        "Famous Quote": "I will spend my heaven doing good on earth.",
+        "Patron Saint Of": "Florists, Missionaries",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Teresa-de-Lisieux.jpg/500px-Teresa-de-Lisieux.jpg"
+    },
+    {
+        "Saint Name": "St. Maximilian Kolbe",
+        "Year of Death": "1941",
+        "Famous Quote": "The most deadly poison of our times is indifference.",
+        "Patron Saint Of": "Prisoners, Journalists",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fr.Maximilian_Kolbe_in_1936.jpg/500px-Fr.Maximilian_Kolbe_in_1936.jpg"
+    },
+    {
+        "Saint Name": "St. Padre Pio",
+        "Year of Death": "1968",
+        "Famous Quote": "Pray, hope, and don't worry.",
+        "Patron Saint Of": "Pain, Stress Relief",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Padre_Pio_portraitFXD.jpg/500px-Padre_Pio_portraitFXD.jpg"
+    },
+    {
+        "Saint Name": "St. Teresa of Calcutta",
+        "Year of Death": "1997",
+        "Famous Quote": "Peace begins with a smile.",
+        "Patron Saint Of": "World Youth Day",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/500px-Mother_Teresa_1.jpg"
+    },
+    {
+        "Saint Name": "St. John Paul II",
+        "Year of Death": "2005",
+        "Famous Quote": "Do not be afraid. Open wide the doors for Christ.",
+        "Patron Saint Of": "Young People, Families",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg"
+    },
+    {
+        "Saint Name": "St. Jude Thaddeus",
+        "Year of Death": "65",
+        "Famous Quote": "Keep yourselves in the love of God.",
+        "Patron Saint Of": "Lost Causes",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/500px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg"
+    },
+    {
+        "Saint Name": "St. Nicholas",
+        "Year of Death": "343",
+        "Famous Quote": "The giver of every good and perfect gift has called upon us.",
+        "Patron Saint Of": "Children, Sailors",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jaroslav_%C4%8Cerm%C3%A1k_%281831_-_1878%29_-_Sv._Mikul%C3%A1%C5%A1_%28cropped%29.jpg"
+    },
+    {
+        "Saint Name": "St. Valentine",
+        "Year of Death": "269",
+        "Famous Quote": "Love your neighbor as yourself.",
+        "Patron Saint Of": "Love, Happy Marriages",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Matija_Brada%C5%A1ka_-_Sv._Valentin.jpg"
+    },
+    {
+        "Saint Name": "St. Christopher",
+        "Year of Death": "251",
+        "Famous Quote": "Behold, the Lord is thy helper.",
+        "Patron Saint Of": "Travelers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hieronymus_Bosch_-_Saint_Christopher_Carrying_the_Christ_Child.jpg/500px-Hieronymus_Bosch_-_Saint_Christopher_Carrying_the_Christ_Child.jpg"
+    },
+    {
+        "Saint Name": "St. Sebastian",
+        "Year of Death": "288",
+        "Famous Quote": "I have been delivered by Christ.",
+        "Patron Saint Of": "Athletes, Soldiers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St._Sebastian_by_Sodoma.jpg/500px-St._Sebastian_by_Sodoma.jpg"
+    },
+    {
+        "Saint Name": "St. George",
+        "Year of Death": "303",
+        "Famous Quote": "I believe in the name of the Lord Jesus Christ.",
+        "Patron Saint Of": "England, Soldiers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-03.jpg/500px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-03.jpg"
+    },
+    {
+        "Saint Name": "St. Cecilia",
+        "Year of Death": "230",
+        "Famous Quote": "Arise, O soldiers of Christ, throw away the works of darkness.",
+        "Patron Saint Of": "Musicians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Guercino_-_St._Cecilia_-_Google_Art_Project.jpg/500px-Guercino_-_St._Cecilia_-_Google_Art_Project.jpg"
+    },
+    {
+        "Saint Name": "St. Lucy",
+        "Year of Death": "304",
+        "Famous Quote": "To the pure all things are pure.",
+        "Patron Saint Of": "The Blind",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg/500px-Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg"
+    },
+    {
+        "Saint Name": "St. Agnes",
+        "Year of Death": "304",
+        "Famous Quote": "Christ has made my soul beautiful.",
+        "Patron Saint Of": "Chastity, Gardeners",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2872-saint-agnes-domenichino.jpg/500px-2872-saint-agnes-domenichino.jpg"
+    },
+    {
+        "Saint Name": "St. Scholastica",
+        "Year of Death": "543",
+        "Famous Quote": "I asked you and you would not listen; so I asked my God.",
+        "Patron Saint Of": "Nuns, Convulsive Children",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kleinmariazell_-_Altar_Scholastica_2.jpg/500px-Kleinmariazell_-_Altar_Scholastica_2.jpg"
+    },
+    {
+        "Saint Name": "St. Dominic",
+        "Year of Death": "1221",
+        "Famous Quote": "A man who governs his passions is master of the world.",
+        "Patron Saint Of": "Astronomers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SaintDominic.jpg/500px-SaintDominic.jpg"
+    },
+    {
+        "Saint Name": "St. Rose of Lima",
+        "Year of Death": "1617",
+        "Famous Quote": "Apart from the Cross, there is no other ladder by which we may get to heaven.",
+        "Patron Saint Of": "Latin America, Florists",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg/500px-Sta_Rosa_de_Lima_por_Claudio_Coello.jpg"
+    },
+    {
+        "Saint Name": "St. Martin de Porres",
+        "Year of Death": "1639",
+        "Famous Quote": "Everything, even sweeping... can be a prayer.",
+        "Patron Saint Of": "Mixed-Race People, Social Justice",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/2/29/San_Martin_de_Porres_huaycan.jpg"
+    },
+    {
+        "Saint Name": "St. Elizabeth Ann Seton",
+        "Year of Death": "1821",
+        "Famous Quote": "The first end I propose in our daily work is to do the will of God.",
+        "Patron Saint Of": "Catholic Schools",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/8/83/Elizabeth_Ann_Seton_portrait_by_Amabilia_Filicchi.jpg"
+    },
+    {
+        "Saint Name": "St. John Bosco",
+        "Year of Death": "1888",
+        "Famous Quote": "Servite Domino in laetitia (Serve the Lord with joy).",
+        "Patron Saint Of": "Apprentices, Editors",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg/500px-Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg"
+    },
+    {
+        "Saint Name": "St. Faustina Kowalska",
+        "Year of Death": "1938",
+        "Famous Quote": "Jesus, I trust in You.",
+        "Patron Saint Of": "Mercy",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Maria_Faustyna_Kowalska.jpg/500px-Maria_Faustyna_Kowalska.jpg"
+    },
+    {
+        "Saint Name": "St. Gianna Beretta Molla",
+        "Year of Death": "1962",
+        "Famous Quote": "Love and sacrifice are closely linked, like the sun and the light.",
+        "Patron Saint Of": "Mothers, Unborn Children",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gianna_Beretta_Molla.jpg"
+    },
+    {
+        "Saint Name": "St. Oscar Romero",
+        "Year of Death": "1980",
+        "Famous Quote": "Aspire not to have more, but to be more.",
+        "Patron Saint Of": "El Salvador, Persecuted Christians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monse%C3%B1or_Romero_%28colour%29.jpg/500px-Monse%C3%B1or_Romero_%28colour%29.jpg"
+    },
+    {
+        "Saint Name": "St. Lawrence",
+        "Year of Death": "258",
+        "Famous Quote": "I am roasted enough on this side; turn me over.",
+        "Patron Saint Of": "Cooks, Comedians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lawrence-before-Valerianus.jpg/500px-Lawrence-before-Valerianus.jpg"
+    },
+    {
+        "Saint Name": "St. Monica",
+        "Year of Death": "387",
+        "Famous Quote": "Nothing is far from God.",
+        "Patron Saint Of": "Difficult Marriages, Mothers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Monica_of_Hippo_by_Gozzoli.jpg/500px-Monica_of_Hippo_by_Gozzoli.jpg"
+    },
+    {
+        "Saint Name": "St. Jerome",
+        "Year of Death": "420",
+        "Famous Quote": "Ignorance of Scripture is ignorance of Christ.",
+        "Patron Saint Of": "Librarians, Translators",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg"
+    },
+    {
+        "Saint Name": "St. Gregory the Great",
+        "Year of Death": "604",
+        "Famous Quote": "The proof of love is in the works.",
+        "Patron Saint Of": "Musicians, Singers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/500px-Gregory_the_Great_with_the_Holy_Spirit.jpg"
+    },
+    {
+        "Saint Name": "St. Boniface",
+        "Year of Death": "754",
+        "Famous Quote": "The Church is like a great ship being pounded by the waves.",
+        "Patron Saint Of": "Germany, Brewers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Saint_Boniface_by_Cornelis_Bloemaert.jpg/500px-Saint_Boniface_by_Cornelis_Bloemaert.jpg"
+    },
+    {
+        "Saint Name": "St. Thomas More",
+        "Year of Death": "1535",
+        "Famous Quote": "I die the King's good servant, and God's first.",
+        "Patron Saint Of": "Statesmen, Lawyers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/500px-Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg"
+    },
+    {
+        "Saint Name": "St. Rita of Cascia",
+        "Year of Death": "1457",
+        "Famous Quote": "There is no problem, I tell you, no matter how difficult it is, that we cannot resolve by the prayer of the Holy Rosary.",
+        "Patron Saint Of": "Impossible Causes",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Santa_Rita_da_Cascia.jpg/500px-Santa_Rita_da_Cascia.jpg"
+    },
+    {
+        "Saint Name": "St. Philip Neri",
+        "Year of Death": "1595",
+        "Famous Quote": "Cheerfulness strengthens the heart and makes us persevere.",
+        "Patron Saint Of": "Joy, Humility",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/0/00/FNeri.gif"
+    },
+    {
+        "Saint Name": "St. Isaac Jogues",
+        "Year of Death": "1646",
+        "Famous Quote": "My confidence is in God who does not need our help for the execution of His designs.",
+        "Patron Saint Of": "Americas",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Father_Isaac_Jogues_S.J.jpg"
+    },
+    {
+        "Saint Name": "St. Kateri Tekakwitha",
+        "Year of Death": "1680",
+        "Famous Quote": "Who will teach me what is most agreeable to God that I may do it?",
+        "Patron Saint Of": "Environment, Ecology",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/CatherinaeTekakwithaVirginis1690.jpg"
+    },
+    {
+        "Saint Name": "St. Damien of Molokai",
+        "Year of Death": "1889",
+        "Famous Quote": "My greatest pleasure is to go there to help the poor lepers.",
+        "Patron Saint Of": "Lepers, Outcasts",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Father_Damien%2C_photograph_by_William_Brigham.jpg/500px-Father_Damien%2C_photograph_by_William_Brigham.jpg"
+    },
+    {
+        "Saint Name": "St. Marianne Cope",
+        "Year of Death": "1918",
+        "Famous Quote": "I am not afraid of any disease.",
+        "Patron Saint Of": "Lepers, Hawaii",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mother_Marianne_Cope_in_her_youth.jpg/500px-Mother_Marianne_Cope_in_her_youth.jpg"
+    },
+    {
+        "Saint Name": "St. Maria Goretti",
+        "Year of Death": "1902",
+        "Famous Quote": "I forgive Alessandro Serenelli with all my heart.",
+        "Patron Saint Of": "Youth, Forgiveness",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/3/38/Maria_Goretti.jpg"
+    },
+    {
+        "Saint Name": "St. Josemaria Escriva",
+        "Year of Death": "1975",
+        "Famous Quote": "Abandonment to the will of God is the secret of happiness on earth.",
+        "Patron Saint Of": "Ordinary Life",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/500px-Josemaria_Escriva.jpg"
+    },
+    {
+        "Saint Name": "St. Edith Stein",
+        "Year of Death": "1942",
+        "Famous Quote": "The world is on fire.",
+        "Patron Saint Of": "Europe, Martyrs",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Edith_Stein_%28ca._1938-1939%29.jpg/500px-Edith_Stein_%28ca._1938-1939%29.jpg"
+    },
+    {
+        "Saint Name": "St. John of the Cross",
+        "Year of Death": "1591",
+        "Famous Quote": "In the evening of life, we will be judged on love alone.",
+        "Patron Saint Of": "Mystics, Poets",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg/500px-Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg"
+    },
+    {
+        "Saint Name": "St. Charles Borromeo",
+        "Year of Death": "1584",
+        "Famous Quote": "Be sure that you first preach by the way you live.",
+        "Patron Saint Of": "Catechists, Seminarians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/500px-Carlo_Borromeo.jpg"
+    },
+    {
+        "Saint Name": "St. Clare of Assisi",
+        "Year of Death": "1253",
+        "Famous Quote": "Love Him totally, who gave Himself totally for your love.",
+        "Patron Saint Of": "Television, Embroiderers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Simone_Martini_047.jpg/500px-Simone_Martini_047.jpg"
+    },
+    {
+        "Saint Name": "St. Polycarp",
+        "Year of Death": "155",
+        "Famous Quote": "Eighty and six years have I served Him, and He never did me any injury.",
+        "Patron Saint Of": "Earaches",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Polycarp_of_Smyrna2.jpg/500px-Polycarp_of_Smyrna2.jpg"
+    },
+    {
+        "Saint Name": "St. Irenaeus",
+        "Year of Death": "202",
+        "Famous Quote": "The glory of God is man fully alive.",
+        "Patron Saint Of": "Theologians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/500px-Saint_irenee_saint_irenee.jpg"
+    },
+    {
+        "Saint Name": "St. Justin Martyr",
+        "Year of Death": "165",
+        "Famous Quote": "We call this food Eucharist.",
+        "Patron Saint Of": "Philosophers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg"
+    },
+    {
+        "Saint Name": "St. Blaise",
+        "Year of Death": "316",
+        "Famous Quote": "Through the intercession of St. Blaise, may God deliver you from every disease of the throat.",
+        "Patron Saint Of": "Throat Ailments",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Saint_Blaise_Louvre_OAR504.jpg/500px-Saint_Blaise_Louvre_OAR504.jpg"
+    },
+    {
+        "Saint Name": "St. Helena",
+        "Year of Death": "330",
+        "Famous Quote": "I sought for the cross of the Savior.",
+        "Patron Saint Of": "Archaeologists, Divorced People",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/500px-Flag_of_Saint_Helena.svg.png"
+    },
+    {
+        "Saint Name": "St. Anthony the Great",
+        "Year of Death": "356",
+        "Famous Quote": "The devil is afraid of us when we pray and make sacrifices.",
+        "Patron Saint Of": "Skin Diseases",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Anthony_%28Damaskinos%29.png/500px-Saint_Anthony_%28Damaskinos%29.png"
+    },
+    {
+        "Saint Name": "St. Athanasius",
+        "Year of Death": "373",
+        "Famous Quote": "The Son of God became man so that we might become God.",
+        "Patron Saint Of": "Theologians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hosios_Loukas_Crypt_%28south_east_groin-vault%29_-_Athanasios.jpg/500px-Hosios_Loukas_Crypt_%28south_east_groin-vault%29_-_Athanasios.jpg"
+    },
+    {
+        "Saint Name": "St. Basil the Great",
+        "Year of Death": "379",
+        "Famous Quote": "A tree is known by its fruit; a man by his deeds.",
+        "Patron Saint Of": "Hospital Administrators",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Basil_of_Caesarea.jpg"
+    },
+    {
+        "Saint Name": "St. John Chrysostom",
+        "Year of Death": "407",
+        "Famous Quote": "Prayer is the root, the fountain, the mother of a thousand blessings.",
+        "Patron Saint Of": "Preachers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Johnchrysostom.jpg/500px-Johnchrysostom.jpg"
+    },
+    {
+        "Saint Name": "St. Leo the Great",
+        "Year of Death": "461",
+        "Famous Quote": "Christian, recognize your dignity.",
+        "Patron Saint Of": "Popes",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pope_St._Leo_I_the_Great.jpg"
+    },
+    {
+        "Saint Name": "St. Columba",
+        "Year of Death": "597",
+        "Famous Quote": "My spirit is glad, my heart is light.",
+        "Patron Saint Of": "Scotland, Poets",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Columba_at_Bridei%27s_fort.jpg"
+    },
+    {
+        "Saint Name": "St. Kevin of Glendalough",
+        "Year of Death": "618",
+        "Famous Quote": "God is everywhere.",
+        "Patron Saint Of": "Dublin, Blackbirds",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kevin-black.jpg"
+    },
+    {
+        "Saint Name": "St. Hilda of Whitby",
+        "Year of Death": "680",
+        "Famous Quote": "Keep peace and charity among yourselves.",
+        "Patron Saint Of": "Learning, Culture",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/St_Hilda_%28Stained_glass%2C_Chester_Cathedral%29_%28cropped%29.JPG/427px-St_Hilda_%28Stained_glass%2C_Chester_Cathedral%29_%28cropped%29.JPG"
+    },
+    {
+        "Saint Name": "St. Bede the Venerable",
+        "Year of Death": "735",
+        "Famous Quote": "Unfurl the sails, and let God steer us where He will.",
+        "Patron Saint Of": "Scholars, Historians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/E-codices_bke-0047_001v_medium_%28cropped%29.jpg/500px-E-codices_bke-0047_001v_medium_%28cropped%29.jpg"
+    },
+    {
+        "Saint Name": "St. Bruno",
+        "Year of Death": "1101",
+        "Famous Quote": "While the world changes, the Cross stands firm.",
+        "Patron Saint Of": "Exorcists",
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+    },
+    {
+        "Saint Name": "St. Bernard of Clairvaux",
+        "Year of Death": "1153",
+        "Famous Quote": "The measure of loving God is to love Him without measure.",
+        "Patron Saint Of": "Beekeepers, Candlemakers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg/500px-San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg"
+    },
+    {
+        "Saint Name": "St. Hildegard von Bingen",
+        "Year of Death": "1179",
+        "Famous Quote": "The soul is a symphonic victory.",
+        "Patron Saint Of": "Musicians, Writers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/500px-Hildegard_von_Bingen.jpg"
+    },
+    {
+        "Saint Name": "St. Albert the Great",
+        "Year of Death": "1280",
+        "Famous Quote": "Do this in remembrance of Me.",
+        "Patron Saint Of": "Scientists, Philosophers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vicente_salvador_gomez-san_alberto.jpg/500px-Vicente_salvador_gomez-san_alberto.jpg"
+    },
+    {
+        "Saint Name": "St. Elizabeth of Hungary",
+        "Year of Death": "1231",
+        "Famous Quote": "We must give what we have to the poor.",
+        "Patron Saint Of": "Hospitals, Bakers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Simone_Martini_046.jpg/500px-Simone_Martini_046.jpg"
+    },
+    {
+        "Saint Name": "St. Bridget of Sweden",
+        "Year of Death": "1373",
+        "Famous Quote": "The true wisdom is to know how to do good.",
+        "Patron Saint Of": "Europe, Widows",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png/500px-Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png"
+    },
+    {
+        "Saint Name": "St. Casimir",
+        "Year of Death": "1484",
+        "Famous Quote": "After God, the Virgin Mary is the most to be loved.",
+        "Patron Saint Of": "Lithuania, Youth",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%C5%A0ventasis_Kazimieras%2C_1594.jpg"
+    },
+    {
+        "Saint Name": "St. John Fisher",
+        "Year of Death": "1535",
+        "Famous Quote": "I am a condemned man, but I will not deny the truth.",
+        "Patron Saint Of": "Lawyers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/San_Juan_Fisher_Obispo_de_Rochester_y_M%C3%A1rtir.jpg/500px-San_Juan_Fisher_Obispo_de_Rochester_y_M%C3%A1rtir.jpg"
+    },
+    {
+        "Saint Name": "St. Edmund Campion",
+        "Year of Death": "1581",
+        "Famous Quote": "The expense is reckoned, the enterprise is begun.",
+        "Patron Saint Of": "Press",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg"
+    },
+    {
+        "Saint Name": "St. Aloysius Gonzaga",
+        "Year of Death": "1591",
+        "Famous Quote": "I am a piece of twisted iron; I entered the religious life to get untwisted.",
+        "Patron Saint Of": "Young Students, Plague Victims",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Vocation_of_Saint_Aloysius_Gonzaga.PNG/500px-The_Vocation_of_Saint_Aloysius_Gonzaga.PNG"
+    },
+    {
+        "Saint Name": "St. Camillus de Lellis",
+        "Year of Death": "1614",
+        "Famous Quote": "More heart in those hands!",
+        "Patron Saint Of": "Hospitals, Nurses",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lellis2.jpg/500px-Lellis2.jpg"
+    },
+    {
+        "Saint Name": "St. Peter Claver",
+        "Year of Death": "1654",
+        "Famous Quote": "Slave of the slaves forever.",
+        "Patron Saint Of": "Race Relations",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/5/52/StPeterClaver.jpg"
+    },
+    {
+        "Saint Name": "St. Margaret Mary Alacoque",
+        "Year of Death": "1690",
+        "Famous Quote": "All for the Eucharist, nothing for me.",
+        "Patron Saint Of": "Devotion to the Sacred Heart",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Marguerite-Marie_Alacoque.jpg/500px-Marguerite-Marie_Alacoque.jpg"
+    },
+    {
+        "Saint Name": "St. Paul of the Cross",
+        "Year of Death": "1775",
+        "Famous Quote": "The Passion of Jesus is the greatest and most overwhelming work of God's love.",
+        "Patron Saint Of": "The Passion",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Paul_de_la_croix.jpg"
+    },
+    {
+        "Saint Name": "St. Jun\u00edpero Serra",
+        "Year of Death": "1784",
+        "Famous Quote": "Always forward, never back.",
+        "Patron Saint Of": "California, Vocations",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Jun%C3%ADpero_Serra.jpg/500px-Jun%C3%ADpero_Serra.jpg"
+    },
+    {
+        "Saint Name": "St. John Vianney",
+        "Year of Death": "1859",
+        "Famous Quote": "The priesthood is the love of the heart of Jesus.",
+        "Patron Saint Of": "Parish Priests",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/S%C3%A3o_Jo%C3%A3o_Maria_Vianney.png/500px-S%C3%A3o_Jo%C3%A3o_Maria_Vianney.png"
+    },
+    {
+        "Saint Name": "St. Peter Julian Eymard",
+        "Year of Death": "1868",
+        "Famous Quote": "Eucharistic oration is the greatest of all actions.",
+        "Patron Saint Of": "The Eucharist",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/St_Peter_Julian_Eymard.jpg"
+    },
+    {
+        "Saint Name": "St. Gemma Galgani",
+        "Year of Death": "1903",
+        "Famous Quote": "If you really want to love Jesus, first learn to suffer.",
+        "Patron Saint Of": "Pharmacists, Paratroopers",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/9/99/Galg_gem.jpg"
+    },
+    {
+        "Saint Name": "St. Francesca Xavier Cabrini",
+        "Year of Death": "1917",
+        "Famous Quote": "I can do all things in Him who strengthens me.",
+        "Patron Saint Of": "Immigrants",
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+    },
+    {
+        "Saint Name": "St. Giuseppe Moscati",
+        "Year of Death": "1927",
+        "Famous Quote": "Charity will change the world.",
+        "Patron Saint Of": "Physicians",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/6/66/San_Giuseppe_Moscati.jpg"
+    },
+    {
+        "Saint Name": "St. Riccardo Pampuri",
+        "Year of Death": "1930",
+        "Famous Quote": "Our life must be a continuous hymn of gratitude to God.",
+        "Patron Saint Of": "Doctors",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pampuri.jpg"
+    },
+    {
+        "Saint Name": "St. Andr\u00e9 Bessette",
+        "Year of Death": "1937",
+        "Famous Quote": "Go to Joseph; he will help you.",
+        "Patron Saint Of": "The Afflicted",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Andr%C3%A9_Bessette.jpg/500px-Saint_Andr%C3%A9_Bessette.jpg"
+    },
+    {
+        "Saint Name": "St. Katherine Drexel",
+        "Year of Death": "1955",
+        "Famous Quote": "The patience and humility of the Heart of Jesus.",
+        "Patron Saint Of": "Philanthropists",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BensalemPA_DrexelShrineEntrance.jpg/500px-BensalemPA_DrexelShrineEntrance.jpg"
+    },
+    {
+        "Saint Name": "St. Pius X",
+        "Year of Death": "1914",
+        "Famous Quote": "To restore all things in Christ.",
+        "Patron Saint Of": "First Communicants",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg/500px-Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg"
+    },
+    {
+        "Saint Name": "St. Maria Faustina",
+        "Year of Death": "1938",
+        "Famous Quote": "The soul that trusts in My mercy is most fortunate.",
+        "Patron Saint Of": "Mercy",
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+    },
+    {
+        "Saint Name": "St. Jose Lusi Sanchez del Rio",
+        "Year of Death": "1928",
+        "Famous Quote": "Viva Cristo Rey!",
+        "Patron Saint Of": "Persecuted Christians",
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+    },
+    {
+        "Saint Name": "St. Laura Montoya",
+        "Year of Death": "1949",
+        "Famous Quote": "I am a drop of water in the ocean of God's love.",
+        "Patron Saint Of": "Orphans",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Beata_Madre_Laura.JPG"
+    },
+    {
+        "Saint Name": "St. Dulce Pontes",
+        "Year of Death": "1992",
+        "Famous Quote": "Love is the only thing that builds.",
+        "Patron Saint Of": "The Poor",
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dulce_Pontes%2C_Wiener_Festwochen_2009_c.jpg/500px-Dulce_Pontes%2C_Wiener_Festwochen_2009_c.jpg"
+    },
+    {
+        "Saint Name": "St. Carlo Acutis",
+        "Year of Death": "2006",
+        "Famous Quote": "The Eucharist is my highway to heaven.",
+        "Patron Saint Of": "Internet, Youth",
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
+    }
+]

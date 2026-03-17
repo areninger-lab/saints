@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saints Timeline Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="setup-screen" class="screen">
+        <h1>Saints Timeline</h1>
+        <div id="player-count-step">
+            <p>How many players (2-4)?</p>
+            <input type="number" id="player-count" min="2" max="4" value="2">
+            <button id="next-to-names">Next</button>
+        </div>
+        <div id="player-names-step" class="hidden">
+            <p>Enter player names:</p>
+            <div id="name-inputs"></div>
+            <button id="start-game">Start Game</button>
+        </div>
+    </div>
+
+    <div id="game-screen" class="screen hidden">
+        <div id="announcement">Player 1's Turn</div>
+
+        <div id="player-areas">
+            <!-- Player areas will be positioned: Top, Bottom, Left, Right -->
+        </div>
+
+        <div id="timeline-container">
+            <div id="timeline">
+                <!-- Timeline cards and slots will go here -->
+            </div>
+        </div>
+
+        <div id="discard-pile" class="hidden">
+            <div class="card-back">Discard</div>
+        </div>
+
+        <div id="status-message"></div>
+    </div>
+
+    <div id="winner-screen" class="screen hidden">
+        <h1 id="winner-announcement">Player 1 Wins!</h1>
+        <button onclick="location.reload()">Play Again</button>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
