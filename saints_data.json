@@ -165,7 +165,7 @@
         "Year of Death": "251",
         "Famous Quote": "Behold, the Lord is thy helper.",
         "Patron Saint Of": "Travelers",
-        "Image URL": "https://commons.wikimedia.org/wiki/Saint_Christopher#/media/File:Ribera_-_San_Crist%C3%B3bal,_P001111.jpg"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hieronymus_Bosch_-_Saint_Christopher_Carrying_the_Christ_Child.jpg/500px-Hieronymus_Bosch_-_Saint_Christopher_Carrying_the_Christ_Child.jpg"
     },
     {
         "Saint Name": "St. Sebastian",
@@ -424,7 +424,7 @@
         "Year of Death": "330",
         "Famous Quote": "I sought for the cross of the Savior.",
         "Patron Saint Of": "Archaeologists, Divorced People",
-        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/0/09/St._Helena%2C_Mother_of_Constantine_Met_DP891077.jpg"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/500px-Flag_of_Saint_Helena.svg.png"
     },
     {
         "Saint Name": "St. Anthony the Great",
@@ -494,7 +494,7 @@
         "Year of Death": "1101",
         "Famous Quote": "While the world changes, the Cross stands firm.",
         "Patron Saint Of": "Exorcists",
-        "Image URL": "https://commons.wikimedia.org/wiki/File:Nicolas_Mignard_001.jpg"
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
     },
     {
         "Saint Name": "St. Bernard of Clairvaux",
@@ -620,7 +620,7 @@
         "Year of Death": "1917",
         "Famous Quote": "I can do all things in Him who strengthens me.",
         "Patron Saint Of": "Immigrants",
-        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Saint_Stephen%2C_Martyr_Roman_Catholic_Church_%28Chesapeake%2C_Virginia%29_-_stained_glass%2C_St._Frances_Xavier_Cabrini.jpg"
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
     },
     {
         "Saint Name": "St. Giuseppe Moscati",
@@ -658,18 +658,11 @@
         "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg/500px-Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg"
     },
     {
-        "Saint Name": "St. Maria Faustina",
-        "Year of Death": "1938",
-        "Famous Quote": "The soul that trusts in My mercy is most fortunate.",
-        "Patron Saint Of": "Mercy",
-        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/d/de/Maria_Faustyna_Kowalska.jpg"
-    },
-    {
-        "Saint Name": "St. Jose Lusi Sanchez del Rio",
+        "Saint Name": "St. Jose Luis Sanchez del Rio",
         "Year of Death": "1928",
         "Famous Quote": "Viva Cristo Rey!",
         "Patron Saint Of": "Persecuted Christians",
-        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jos%C3%A9_S%C3%A1nchez_del_R%C3%ADo.jpg"
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
     },
     {
         "Saint Name": "St. Laura Montoya",
@@ -683,13 +676,13 @@
         "Year of Death": "1992",
         "Famous Quote": "Love is the only thing that builds.",
         "Patron Saint Of": "The Poor",
-        "Image URL": "https://dtp.wikipedia.org/wiki/Irm%C3%A3_Dulce#/media/Fail:Irm%C3%A3_Dulce_aos_20_anos_de_idade.png"
+        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dulce_Pontes%2C_Wiener_Festwochen_2009_c.jpg/500px-Dulce_Pontes%2C_Wiener_Festwochen_2009_c.jpg"
     },
     {
         "Saint Name": "St. Carlo Acutis",
         "Year of Death": "2006",
         "Famous Quote": "The Eucharist is my highway to heaven.",
         "Patron Saint Of": "Internet, Youth",
-        "Image URL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Campinas_-_13_de_setembro-96_%28cropped%29.jpg"
+        "Image URL": "https://via.placeholder.com/400x600?text=No+Image"
     }
 ]

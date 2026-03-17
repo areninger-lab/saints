@@ -67,18 +67,29 @@ function startGame() {
         });
     }
 
-    deck = [...saintsData];
+    // Ensure we start with a clean deep copy of the data
+    deck = JSON.parse(JSON.stringify(saintsData));
     shuffle(deck);
+
+    console.log("Deck size after shuffle:", deck.length);
 
     // Deal cards
     players.forEach(player => {
         for (let i = 0; i < 4; i++) {
-            player.hand.push(deck.pop());
+            if (deck.length > 0) {
+                const card = deck.pop();
+                player.hand.push(card);
+                console.log(`Dealt to ${player.name}:`, card['Saint Name']);
+            }
         }
     });
 
     // Initial timeline card
-    timeline.push(deck.pop());
+    if (deck.length > 0) {
+        const initialCard = deck.pop();
+        timeline.push(initialCard);
+        console.log("Initial timeline card:", initialCard['Saint Name']);
+    }
 
     setupScreen.classList.add('hidden');
     gameScreen.classList.remove('hidden');
@@ -92,7 +103,7 @@ function startGame() {
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[array[j]]] = [array[j], array[array[i]]];
+        [array[i], array[j]] = [array[j], array[i]];
     }
 }
 
