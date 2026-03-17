@@ -12,13 +12,11 @@ This game is hosted using GitHub Pages. To play:
 4. Click **Save**.
 5. After a minute, your game will be live at `https://<your-username>.github.io/<repository-name>/`.
 
-### Option 2: Windows Executable
-If you prefer a standalone app:
-1. Download `saints-game.exe`.
-2. Double-click to run.
-3. If Windows shows a "Windows protected your PC" message:
-   - Click **More info**.
-   - Click **Run anyway**.
+### Option 2: Build as a Windows App (Optional)
+If you prefer a standalone app and have Go installed:
+1. Build the executable: `GOOS=windows GOARCH=amd64 go build -o saints-game.exe main.go`
+2. Double-click `saints-game.exe` to run.
+3. Note: Windows may show a security warning for unsigned apps. Click **More info** -> **Run anyway** to play.
 
 ## Development
 The game is built with:
