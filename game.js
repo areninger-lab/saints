@@ -98,9 +98,15 @@ function shuffle(array) {
 
 function renderPlayerAreas() {
     playerAreasDiv.innerHTML = '';
+
+    const topRow = document.createElement('div');
+    topRow.className = 'player-row top';
+    const bottomRow = document.createElement('div');
+    bottomRow.className = 'player-row bottom';
+
     players.forEach((player, index) => {
         const area = document.createElement('div');
-        area.className = `player-area player-area-${index}`;
+        area.className = `player-area`;
         if (index === currentPlayerIndex) area.classList.add('active');
 
         const nameLabel = document.createElement('div');
@@ -126,8 +132,17 @@ function renderPlayerAreas() {
         });
 
         area.appendChild(handDiv);
-        playerAreasDiv.appendChild(area);
+
+        // Player 1 (0) and 3 (2) go top, 2 (1) and 4 (3) go bottom
+        if (index === 0 || index === 2) {
+            topRow.appendChild(area);
+        } else {
+            bottomRow.appendChild(area);
+        }
     });
+
+    playerAreasDiv.appendChild(topRow);
+    playerAreasDiv.appendChild(bottomRow);
 }
 
 function createCardElement(card, showDate, isDraggable = false) {

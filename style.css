@@ -1,6 +1,6 @@
 :root {
     --card-width: 120px;
-    --card-height: 180px;
+    --card-height: 240px;
     --primary-color: #2c3e50;
     --accent-color: #e74c3c;
     --success-color: #2ecc71;
@@ -70,10 +70,23 @@ body {
     width: 100%;
     height: 100%;
     pointer-events: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.player-row {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 10px;
+}
+
+.player-row.top {
+    padding-top: 50px;
 }
 
 .player-area {
-    position: absolute;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -85,11 +98,6 @@ body {
     background: rgba(231, 76, 60, 0.1);
     border-radius: 10px;
 }
-
-.player-area-0 { bottom: 0; left: 50%; transform: translateX(-50%); } /* Bottom */
-.player-area-1 { top: 40px; left: 50%; transform: translateX(-50%); }    /* Top */
-.player-area-2 { left: 0; top: 50%; transform: translateY(-50%) rotate(90deg); } /* Left */
-.player-area-3 { right: 0; top: 50%; transform: translateY(-50%) rotate(-90deg); } /* Right */
 
 .player-name {
     font-weight: bold;
@@ -133,8 +141,9 @@ body {
 
 .card img {
     width: 100%;
-    height: 60px;
+    height: 110px;
     object-fit: cover;
+    object-position: top;
     border-radius: 4px;
     margin-bottom: 5px;
 }
