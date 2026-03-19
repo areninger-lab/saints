@@ -1,0 +1,32 @@
+[
+  {
+    "youtubeId": "hW7Z_B72U0U",
+    "title": "Anniversary Waltz",
+    "danceTypes": ["Waltz"],
+    "beats": [2.5, 5.5, 8.5, 11.5]
+  },
+  {
+    "youtubeId": "lneSAI_t1lE",
+    "title": "Pata Pata",
+    "danceTypes": ["Cha Cha"],
+    "beats": [12.0, 14.0, 16.0, 18.0]
+  },
+  {
+    "youtubeId": "28_p6D3-t0U",
+    "title": "Besame Mucho",
+    "danceTypes": ["Rumba"],
+    "beats": [5.0, 9.0, 13.0, 17.0]
+  },
+  {
+    "youtubeId": "CbE_fVjHdCY",
+    "title": "Runaway Baby",
+    "danceTypes": ["Jive", "Swing"],
+    "beats": [8.0, 9.6, 11.2, 12.8]
+  },
+  {
+    "youtubeId": "vS26v6N-O20",
+    "title": "The Blue Danube",
+    "danceTypes": ["Viennese Waltz"],
+    "beats": [15.0, 18.0, 21.0, 24.0]
+  }
+]

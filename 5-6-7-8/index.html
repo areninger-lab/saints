@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5-6-7-8 Ballroom Rhythm Trainer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="game-container">
+        <header>
+            <h1>5-6-7-8</h1>
+            <p id="subtitle">Ballroom Rhythm & Style Trainer</p>
+        </header>
+
+        <main>
+            <div id="video-wrapper">
+                <div id="player"></div>
+            </div>
+
+            <div id="interaction-area">
+                <div id="phase-1" class="phase">
+                    <h3>What kind of dance is this?</h3>
+                    <div id="dance-buttons" class="button-grid">
+                        <!-- Buttons added by JS -->
+                    </div>
+                </div>
+
+                <div id="phase-2" class="phase hidden">
+                    <h3>Listen for the "1"...</h3>
+                    <button id="hit-the-1" class="gold-button">Hit the 1!</button>
+                </div>
+
+                <div id="feedback-area" class="hidden">
+                    <p id="feedback-message"></p>
+                    <div id="visual-cue" class="hidden">↓</div>
+                    <button id="next-song" class="gold-button">Next Song</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Ballroom 5-6-7-8</p>
+        </footer>
+    </div>
+
+    <!-- YouTube IFrame API -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="game.js"></script>
+</body>
+</html>
