@@ -4,5 +4,11 @@
     "title": "American Waltz Mix",
     "danceTypes": ["Waltz"],
     "beats": [2.5, 5.5, 8.5, 11.5]
+  },
+  {
+    "youtubeId": "9J9xby94SN8",
+    "title": "American Tango Mix",
+    "danceTypes": ["Tango"],
+    "beats": [2.5, 5.5, 8.5, 11.5]
   }
 ]
