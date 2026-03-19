@@ -34,8 +34,19 @@ function onYouTubeIframeAPIReady() {
     init();
 }
 
+function extractVideoId(urlOrId) {
+    if (!urlOrId) return "";
+    // If it's already an ID, return it (IDs are 11 chars)
+    if (urlOrId.length === 11 && !urlOrId.includes("/") && !urlOrId.includes(".")) return urlOrId;
+
+    const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i;
+    const match = urlOrId.match(regex);
+    return match ? match[1] : urlOrId;
+}
+
 function loadSong(index) {
     const song = songs[index];
+    const videoId = extractVideoId(song.youtubeUrl || song.youtubeId);
     correctDanceTypes = song.danceTypes;
     targetBeats = song.beats;
 
@@ -45,12 +56,12 @@ function loadSong(index) {
     document.getElementById('visual-cue').classList.add('hidden');
 
     if (player) {
-        player.loadVideoById(song.youtubeId);
+        player.loadVideoById(videoId);
     } else {
         player = new YT.Player('player', {
             height: '360',
             width: '640',
-            videoId: song.youtubeId,
+            videoId: videoId,
             events: {
                 'onReady': onPlayerReady,
                 'onStateChange': onPlayerStateChange
