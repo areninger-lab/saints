@@ -1,32 +1,32 @@
 [
   {
-    "youtubeUrl": "https://www.youtube.com/watch?v=9J9xby94SN8",
-    "title": "Anniversary Waltz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=p8npDG2ulKQ",
+    "title": "Singularity",
     "danceTypes": ["Waltz"],
     "beats": [2.5, 5.5, 8.5, 11.5]
   },
   {
-    "youtubeUrl": "https://www.youtube.com/watch?v=9J9xby94SN8",
-    "title": "Pata Pata",
+    "youtubeUrl": "https://www.youtube.com/watch?v=13CdKgFiiXQ&list=PLL6N9Fu-5bAQrg2jEk1SybK3GiEslBrn7&index=5",
+    "title": "Strip That Down",
     "danceTypes": ["Cha Cha"],
     "beats": [12.0, 14.0, 16.0, 18.0]
   },
   {
-    "youtubeUrl": "https://www.youtube.com/watch?v=9J9xby94SN8",
-    "title": "Besame Mucho",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Y_t2gNCXYbY&list=PLL6N9Fu-5bAQrg2jEk1SybK3GiEslBrn7&index=4",
+    "title": "Somethin' Stupid",
     "danceTypes": ["Rumba"],
     "beats": [5.0, 9.0, 13.0, 17.0]
   },
   {
-    "youtubeUrl": "https://www.youtube.com/watch?v=9J9xby94SN8",
-    "title": "Runaway Baby",
-    "danceTypes": ["Jive", "Swing"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=ny8Le5n8M9k&list=PLL6N9Fu-5bAQrg2jEk1SybK3GiEslBrn7&index=6",
+    "title": "Tearing Me Up",
+    "danceTypes": ["Swing"],
     "beats": [8.0, 9.6, 11.2, 12.8]
   },
   {
-    "youtubeUrl": "https://www.youtube.com/watch?v=9J9xby94SN8",
-    "title": "The Blue Danube",
-    "danceTypes": ["Viennese Waltz"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=aB5YjRcgvgM&list=PLL6N9Fu-5bAQrg2jEk1SybK3GiEslBrn7&index=9",
+    "title": "Fullmetal",
+    "danceTypes": ["Foxtrot"],
     "beats": [15.0, 18.0, 21.0, 24.0]
   }
 ]
